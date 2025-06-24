@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">📝 MERN Stack Note Taking App ✨</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
@@ -43,3 +44,6 @@ cd frontend
 npm install
 npm run dev
 ```
+=======
+# Dev_N0tes
+>>>>>>> c9a3088ef5667ba1df69851b071e8961c36daea5
